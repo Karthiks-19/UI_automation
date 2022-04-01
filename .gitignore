@@ -1,0 +1,8 @@
+allure-results 
+allure-report
+node_modules
+.DS_Store
+run
+.vscode
+.metals
+logindata.js
